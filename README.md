@@ -21,6 +21,3 @@ https://github.com/Arcademiker/AShot
 
 ![ashot](https://user-images.githubusercontent.com/15786772/65606710-a4df2580-dfab-11e9-8348-9d6275d1ba24.png)
 
-```c++
-if (x == 5) {
-```
